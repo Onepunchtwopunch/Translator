@@ -1,0 +1,30 @@
+{
+    "sentences": [
+      { "id": 1, "title": "I go to work every day"},
+      { "id": 2, "title": "They usually play tennis every weekend" }
+     
+    ],
+    "word": [
+      { "id": 1, "en": "I", "ru": "Я", "known": false },
+      { "id": 2, "en": "go", "ru": "ходить, идти", "known": false },
+      { "id": 3, "en": "to", "ru": "к, в, до, на, для", "known": false },
+      { "id": 12, "en": "work", "ru": "работа", "known": false },
+      { "id": 4, "en": "every", "ru": "каждый", "known": false },
+      { "id": 5, "en": "day", "ru": "день", "known": false },
+      { "id": 6, "en": "They", "ru": "они", "known": false },
+      { "id": 7, "en": "usually", "ru": "обычно", "known": false },
+      { "id": 8, "en": "play", "ru": "играть", "known": false },
+      { "id": 9, "en": "tennis", "ru": "теннис", "known": false },
+      { "id": 10, "en": "weekend", "ru": "выходной день", "known": false },
+      { "id": 11, "en": "day", "ru": "день", "known": false }
+    ],
+    "rules": [
+      {"id":1, "rule": "Present Simle", "description":"asdafdsfsadfasfsaf", "new": true}
+    ]
+  }
+  
+  
+  
+  
+  
+  
